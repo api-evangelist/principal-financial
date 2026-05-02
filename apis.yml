@@ -1,7 +1,7 @@
 aid: principal-financial
 url: 
   https://raw.githubusercontent.com/api-evangelist/principal-financial/refs/heads/main/apis.yml
-modified: '2026-03-21'
+modified: '2026-04-28'
 apis: []
 common:
   - type: Website
