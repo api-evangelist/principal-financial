@@ -4,6 +4,10 @@ url:
 modified: '2026-04-28'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/PrincipalFinancialGroup
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/principalfinancialgroup
   - type: Website
     url: https://www.principal-financial.com
 description: >-
