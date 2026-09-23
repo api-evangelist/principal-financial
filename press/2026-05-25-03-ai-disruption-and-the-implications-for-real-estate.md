@@ -1,7 +1,9 @@
 ---
 title: AI disruption and the implications for real estate
 url: https://brandassets.principal.com/m/55ca51235964976/original/Principal-Real-Estate-AI-and-Real-Estate-Series-Part-2.pdf
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Principal Financial" press release artificial intelligence'
 position: 3
 source: serpapi-google

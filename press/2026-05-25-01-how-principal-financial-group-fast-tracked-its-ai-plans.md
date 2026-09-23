@@ -1,7 +1,9 @@
 ---
 title: How Principal Financial Group fast tracked its AI plans ...
 url: https://www.ciodive.com/news/Principal-Financial-Group-generative-AI-cloud-strategy/694002/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Principal Financial" press release artificial intelligence'
 position: 1
 source: serpapi-google

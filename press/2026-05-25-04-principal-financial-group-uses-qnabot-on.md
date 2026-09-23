@@ -1,7 +1,9 @@
 ---
 title: Principal Financial Group uses QnABot on ...
 url: https://aws.amazon.com/blogs/machine-learning/principal-financial-group-uses-qnabot-on-aws-and-amazon-q-business-to-enhance-workforce-productivity-with-generative-ai/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Principal Financial" press release artificial intelligence'
 position: 4
 source: serpapi-google
